@@ -1,14 +1,6 @@
 #!/usr/bin/env python3
 """
 CSC434 Buffer Overflow Handout – Payload Generator (Week 1)
-
-This script generates a payload file similar to the structure shown in the
-handout examples:
-
-- Padding up to the saved return address
-- Placeholder overwrite bytes
-
-This is for assignment demonstration purposes.
 """
 
 import argparse
