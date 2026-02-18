@@ -10,4 +10,3 @@ Files included:
 - `payload.py` – Python payload generator script
 - `payload.bin` – Generated payload output (example)
 
-This work is based directly on the Week 1 Buffer Overflow handout.
